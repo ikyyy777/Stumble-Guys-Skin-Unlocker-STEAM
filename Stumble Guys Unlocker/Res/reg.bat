@@ -1,0 +1,1 @@
+reg delete "HKEY_CURRENT_USER\SOFTWARE\Kitka Games\Stumble Guys" /v FREE_NAME_CHANGE_h57838256 /f
