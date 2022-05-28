@@ -1,2 +1,2 @@
-# Stumble-Guys-Skin-Unlocker-STEAM-
+# Stumble-Guys-Skin-Unlocker-STEAM
 Unlock All Skins/Characters
